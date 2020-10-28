@@ -1,2 +1,2 @@
 # gitdemo
-Sandbox
+A sandbox to explore Git's features.
